@@ -16,5 +16,23 @@ console.log(botIntroduction);
 
 let botLocationSentence;
 botLocationSentence = "I live in " + botLocation + ".";
+console.log(botLocationSentence);
 
 bot = "professorBot";
+
+let nicknameIntroduction;
+nicknameIntroduction = "My nicknake is " + bot + ".";
+console.log(nicknameIntroduction);
+
+bot = "awesomeTeacherBot";
+
+let newNicknameGreeting;
+newNicknameGreeting = "I love my nickname but I wish people would call me " + bot + ".";
+console.log(newNicknameGreeting);
+
+let favoriteSubject;
+favoriteSubject = "Computer Science";
+
+let favoriteSubjectSentence;
+favoriteSubjectSentence = "My favorite subject is " + favoriteSubject + ".";
+console.log(favoriteSubjectSentence);
