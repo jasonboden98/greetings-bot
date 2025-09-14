@@ -36,3 +36,9 @@ favoriteSubject = "Computer Science";
 let favoriteSubjectSentence;
 favoriteSubjectSentence = "My favorite subject is " + favoriteSubject + ".";
 console.log(favoriteSubjectSentence);
+
+console.log(typeof favoriteSubjectSentence);
+let num = 42;
+console.log(typeof num);
+num = true;
+console.log(typeof num);
