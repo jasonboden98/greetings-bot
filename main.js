@@ -47,3 +47,5 @@ let stringNumbers = "string";
 console.log(stringNumbers[5]);
 console.log(stringNumbers[1] + stringNumbers[2]);
 console.log(stringNumbers[stringNumbers.length - 1]);
+
+console.log('hello, we\'re testing');
