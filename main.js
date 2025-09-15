@@ -42,3 +42,8 @@ let num = 42;
 console.log(typeof num);
 num = true;
 console.log(typeof num);
+
+let stringNumbers = "string";
+console.log(stringNumbers[5]);
+console.log(stringNumbers[1] + stringNumbers[2]);
+console.log(stringNumbers[stringNumbers.length - 1]);
