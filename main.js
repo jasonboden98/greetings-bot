@@ -49,3 +49,7 @@ console.log(stringNumbers[1] + stringNumbers[2]);
 console.log(stringNumbers[stringNumbers.length - 1]);
 
 console.log('hello, we\'re testing');
+let lastTest;
+lastTest = "this is a tester\'s"
+console.log(lastTest);
+console.log(lastTest[5] + lastTest[8]);
